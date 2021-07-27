@@ -8,7 +8,7 @@ const port = 8080;
 app.get('/', (req, res) => {
 
 
-    res.send('Bienvenidos!! Los problemas difíciles de resolver han de ser bienvenidos, ya que son una oportunidad de evolucionar y aprender algo que no sabías.');
+    res.send('En la vida hay momentos que por sí mismos son especiales, pero siempre es mejor si puedes compartirlo con las personas a las que quieres. Por eso te agradezco que hoy estés aquí. ¡Bienvenido!');
 })
 
 
