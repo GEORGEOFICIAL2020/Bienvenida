@@ -6,4 +6,4 @@ Integrantes
 
 1- Oscar Alberto Arrieta Gonzalez
 
-Jorge Luis Florez Torres
+2- Jorge Luis Florez Torres
