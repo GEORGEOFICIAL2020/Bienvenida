@@ -8,6 +8,6 @@ Integrantes
 
 2- Jorge Luis Florez Torres
 
-3- Diego Mathos Jaraba
+3- Diego Antonio Mathos Jaraba
 
 4- Ever Doria Morales
