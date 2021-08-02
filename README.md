@@ -7,3 +7,5 @@ Integrantes
 1- Oscar Alberto Arrieta Gonzalez
 
 2- Jorge Luis Florez Torres
+
+3- Diego Mathos Jaraba
